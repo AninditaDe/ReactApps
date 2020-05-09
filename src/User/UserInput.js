@@ -1,9 +1,6 @@
 import React, { Component } from 'react';
 
 class UserInput extends Component{
-    constructor(props) {
-        super(props);
-     }
       render(){
         const styleForUserInput = {
             position: 'absolute',
